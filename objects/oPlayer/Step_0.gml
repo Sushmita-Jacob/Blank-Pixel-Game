@@ -53,3 +53,9 @@ if keyboard_check(vk_right) {
     image_xscale = 1; // reset her sprite so she faces left
 
 }
+
+if (place_meeting(x, y, oFlag)) { // if heidi collides with the spikes
+
+    room_goto(Room2) // end level
+
+}
