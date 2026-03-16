@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sPlatformer",
-    "path":"sprites/sPlatformer/sPlatformer.yy",
+    "name":"sBorder_1",
+    "path":"sprites/sBorder_1/sBorder_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
